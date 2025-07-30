@@ -7,7 +7,7 @@ I’m Pawan Waghamare, a passionate Java Full Stack Developer with a B.Tech in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-waghmare-341196334)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/pawanw930)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pawan_____7006)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanw930@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF)](mailto:pawanw930@gmail.com)
 
 
 # 💻 Tech Stack:
